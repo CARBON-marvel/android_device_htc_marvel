@@ -1,5 +1,5 @@
 # gsm
-$(call inherit-product, vendor/carbon/config/gsm.mk)
+$(call inherit-product, vendor/carbon/config/common_gsm.mk)
 
 # Release name
 PRODUCT_RELEASE_NAME := marvel
